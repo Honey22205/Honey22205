@@ -11,15 +11,20 @@
 -Full Stack Development
 -Machine Learning and AI
 -Open Source Contributions
+
+
 🌱 Learning Goals:
 
 -Deepen my understanding of algorithms and data structures
 -Enhance my skills in cloud computing and DevOps
 -Explore advanced topics in artificial intelligence
 
+
 🚀 Let's Connect:
 LinkedIn: www.linkedin.com/in/honeypriya
+
 Twitter: https://twitter.com/HoneyPr95584973
+
 📫 Get in Touch: Feel free to reach out for collaborations, discussions, or just a friendly chat
 <!---
 Honey22205/Honey22205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
