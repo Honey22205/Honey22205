@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Honey Priya.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- I am currently studying in BIT MESRA,CSE 1ST yr...
+- I am currently studying in BIT MESRA,CSE 2nd yr...
 - 📫 How to reach me- honeypriya.222005@gmail.com
 
 
